@@ -1,7 +1,5 @@
 # bootcamp-assignment
 
-Sure, here is a README for a GitHub repository that contains the todo.sql and sales.sql files:
-
 SQL Databases
 This repository contains two SQL files:
 
